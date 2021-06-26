@@ -12,7 +12,7 @@ Here are a few things I've learned along my web design career: <br><br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=square&logo=adobephotoshop&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=square&logo=adobephotoshop&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp;
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=square&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-express-000?&style=flat-square&logo=Express&logoColor=white"/>&nbsp;
