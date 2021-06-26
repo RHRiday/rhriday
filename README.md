@@ -14,7 +14,7 @@ Here are a few things I've learned along my web design career: <br><br>
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/>&nbsp;
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=square&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-express-000?&style=flat-square&logo=Express&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
 ![C](https://img.shields.io/badge/--A8B9CC?style=flat-square&logo=c&logoColor=black)&nbsp;
