@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Rifat Hossen Riday](https://rhriday.github.io/)
 
-I’m a self-taught web developer with good experience in and Laravel💻. I’m passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
+I’m a self-taught web developer with good experience in php/Laravel💻. I’m passionate about web technologies and love to learn new things. I am trying to be more creative and will soon come with something unique...
 
 #### 🔭 Available for Work.
 
