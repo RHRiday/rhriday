@@ -37,7 +37,7 @@ Here are a few things I've learned along my web design career: <br><br>
 <p align="center">
 <a href="https://github.com/rhriday">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhriday&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?rhriday"/>
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rhriday" frameborder="0"></iframe>
 </a>
 </p> 
 
