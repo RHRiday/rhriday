@@ -37,7 +37,7 @@ Here are a few things I've learned along my web design career: <br><br>
 <p align="center">
 <a href="https://github.com/rhriday">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhriday&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhriday&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhriday&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=6"/>
 </a>
 </p> 
 
